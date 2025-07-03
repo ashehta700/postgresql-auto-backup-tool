@@ -2,7 +2,7 @@
 
 A powerful and user-friendly Windows application to automate PostgreSQL database backups using scheduled tasks. Developed by [Ahmed Shehta](https://ahmed-shehta.netlify.app).
 
-![App Screenshot]([https://your-screenshot-url-if-any](https://github.com/ashehta700/postgresql-auto-backup-tool/blob/main/PostgreSQLBackup.jpg))
+![App Screenshot](https://github.com/ashehta700/postgresql-auto-backup-tool/blob/main/PostgreSQLBackup.jpg)
 
 ## 🚀 Features
 
