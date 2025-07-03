@@ -2,7 +2,7 @@
 
 A powerful and user-friendly Windows application to automate PostgreSQL database backups using scheduled tasks. Developed by [Ahmed Shehta](https://ahmed-shehta.netlify.app).
 
-![App Screenshot](https://your-screenshot-url-if-any)
+![App Screenshot]([https://your-screenshot-url-if-any](https://github.com/ashehta700/postgresql-auto-backup-tool/blob/main/PostgreSQLBackup.jpg))
 
 ## 🚀 Features
 
@@ -24,7 +24,7 @@ A powerful and user-friendly Windows application to automate PostgreSQL database
 
 1. Clone or download this repository
 2. Run `main.py` using Python
-3. Or use the EXE version from the `dist/` folder
+3. Or use the EXE version Direct 
 
 To build your own EXE:
 ```bash
